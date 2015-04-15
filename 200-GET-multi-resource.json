@@ -1,0 +1,12 @@
+[
+  {
+    "field1": "value",
+    "field2": true,
+    "field3": []
+  },
+  {
+    "field1": "another value",
+    "field2": false,
+    "field3": []
+  }
+]

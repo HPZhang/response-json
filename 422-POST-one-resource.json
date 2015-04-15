@@ -1,0 +1,10 @@
+[
+  {
+    "field": "Field Name",
+    "message": "Field is not valid"
+  },
+  {
+    "field": "OtherField name",
+    "message": "OtherField is already used"
+  }
+]
